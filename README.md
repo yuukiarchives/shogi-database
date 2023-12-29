@@ -1,2 +1,2 @@
-# games
-The Complete Games of yuuki
+# database
+A database of shogi games
