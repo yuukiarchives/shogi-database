@@ -1,2 +1,2 @@
 # shogi-database
-A database of shogi games
+A shogi database
